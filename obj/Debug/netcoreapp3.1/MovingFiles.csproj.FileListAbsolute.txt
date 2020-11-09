@@ -1,0 +1,12 @@
+C:\Users\chris\Source\Repos\MovingFiles\bin\Debug\netcoreapp3.1\MovingFiles.exe
+C:\Users\chris\Source\Repos\MovingFiles\bin\Debug\netcoreapp3.1\MovingFiles.deps.json
+C:\Users\chris\Source\Repos\MovingFiles\bin\Debug\netcoreapp3.1\MovingFiles.runtimeconfig.json
+C:\Users\chris\Source\Repos\MovingFiles\bin\Debug\netcoreapp3.1\MovingFiles.runtimeconfig.dev.json
+C:\Users\chris\Source\Repos\MovingFiles\bin\Debug\netcoreapp3.1\MovingFiles.dll
+C:\Users\chris\Source\Repos\MovingFiles\bin\Debug\netcoreapp3.1\MovingFiles.pdb
+C:\Users\chris\Source\Repos\MovingFiles\obj\Debug\netcoreapp3.1\MovingFiles.AssemblyInfoInputs.cache
+C:\Users\chris\Source\Repos\MovingFiles\obj\Debug\netcoreapp3.1\MovingFiles.AssemblyInfo.cs
+C:\Users\chris\Source\Repos\MovingFiles\obj\Debug\netcoreapp3.1\MovingFiles.dll
+C:\Users\chris\Source\Repos\MovingFiles\obj\Debug\netcoreapp3.1\MovingFiles.pdb
+C:\Users\chris\Source\Repos\MovingFiles\obj\Debug\netcoreapp3.1\MovingFiles.genruntimeconfig.cache
+C:\Users\chris\Source\Repos\MovingFiles\obj\Debug\netcoreapp3.1\MovingFiles.csprojAssemblyReference.cache
